@@ -1,1 +1,3 @@
 # BLG222E-Computer-Organization
+
+Elif Arıkan ve Hüseyin Averbek'e teşekkürler...
